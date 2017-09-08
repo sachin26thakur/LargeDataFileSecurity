@@ -14,7 +14,10 @@ Open project in Xcode. Select "FILES" folder in project navigator, then move any
 ```
 NSString *const LARGE_DATA_FILE = @"YOUR_FILE_NAME";
 NSString *const LARGE_DATA_FILE_EXTENSION = @"FILE_EXTENSION";
+
 ```
+Once you done with edit these changes, run project in simulator or device.
+
 # Best of luck
 
 SachinVsSachin
